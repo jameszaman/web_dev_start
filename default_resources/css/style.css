@@ -1,0 +1,145 @@
+#delete{
+    height: 500px;
+    width: auto;
+}
+
+body{
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    margin: 0;
+    font-family: Ubuntu, sans-serif;
+}
+
+footer{
+    padding: 10px;
+    border: 0px;
+    background-color: #dbd7d7;
+}
+
+h1{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+h2{
+    color: #8D4EB5;
+    display: inline-block;
+}
+
+h2:hover{
+    color: #AD6ED5;
+}
+
+li{
+    font-size: 20px;
+}
+
+li:hover{
+    font-size: 22px;
+}
+
+img{
+    width: 150px;
+    height: auto;
+}
+
+.logo-image{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.logo-image:hover{
+    width: 155px;
+    height: auto;
+}
+
+.header-div{
+    text-align: center;
+    color: #7e63ba;
+    background-color:#79daed;
+    padding: 10px;
+}
+
+.block{
+    margin: 30px;
+    padding: 20px;
+    background-color: #d5dbe3;
+}
+
+.square-data-block{
+    display: inline-block;
+    margin: 10px;
+}
+
+
+.square-data-block-title{
+    text-align: center;
+}
+
+.square-data-block-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 352px;
+    height: 198px;
+}
+
+.square-data-block-image:hover{
+    opacity:0.7;
+}
+
+.hyperlink:link{
+    text-decoration: none;
+    font-size: 18px;
+    color: #627da8;
+}
+
+.hyperlink:visited{
+    color: #627da8;
+}
+
+.hyperlink:hover{
+    color: #3b5a8a;;
+}
+
+.unorder-list{
+    list-style-type: disc;
+}
+
+.inner-list{
+    color: #ff7600;
+    font-size: 18px;
+}
+
+.inner-list:hover {
+    font-size: 19px;
+}
+
+
+.artical_type1{
+    color: #3a4469;
+    font-size: 20px;
+}
+
+.important-text{
+    color: red;
+}
+
+.button{
+    font-family: Ubuntu, sans-serif;
+    font-size: 20px;
+    width: 90px;
+    height: 45px;
+    border: 10px;
+    outline: none;
+    cursor: pointer;
+    background-color: #ff9326;
+}
+
+.button:hover{
+    background-color: #ff8426;
+}
+
+.button:active{
+    opacity: 70%;
+}
